@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASS_EfDb_CourseManagement.props" />
+</Project>
